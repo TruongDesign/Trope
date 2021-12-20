@@ -8,9 +8,13 @@ A ripoff PC case design, based on Yuel Beast Designs' Motif Monument. Designed t
 # BOM
 
 16mm panel-mount push-button switch x1
+
 6-32 1/2" male-female threaded hex standoff x4
+
 6-32 1/4" male-female threaded hex standoff x4
+
 6-32 1/2" thumb screw x13
+
 6-32 1/4" screw x4
 
 # License
