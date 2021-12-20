@@ -5,6 +5,8 @@ A ripoff PC case design, based on Yuel Beast Designs' Motif Monument. Designed t
 
 <img src="https://github.com/TheOfficialCzex/Trope/blob/main/Trope.gif" alt="Trope PC Case Turntable"/>
 
+The 12 smaller holes are to be threaded for 6-32. The 4 larger holes at the PSU mount and the 4 larger holes on the rear panel are to be left unthreaded. One hole is to be threaded to 6-32 parallel to the sheet for PCIe card support.
+
 # BOM
 
 16mm panel-mount push-button switch x1
